@@ -65,3 +65,5 @@ This brand new all in one extruder design with many cool features we call Smart 
 - Smart features supply: 3.3V or 5V
 
 For more details please visit: https://www.orbiterprojects.com/so3/
+
+Join our support group on Facebook: https://www.facebook.com/groups/705637896767655
