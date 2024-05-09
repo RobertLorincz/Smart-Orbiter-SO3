@@ -1,6 +1,9 @@
 # Smart-Orbiter-SO3
 This brand new all in one extruder design with many cool features we call Smart Orbiter v3.0  is one of my latest and finest extruder design made in collaboration with LDO Motors. The extrusion system concept and mechanical performances are similar to the Orbiter v2.0 but completely redesigned from scratch.
 
+![SO3](https://github.com/RobertLorincz/Smart-Orbiter-SO3/assets/155807093/246d22ef-dbab-4337-be10-144b0e24debe)
+
+
 **Summary of the coolest features:**
 
 - Pure plated copper heat-block with 72W ceramic heater and Bontech CHT nozzle for highest possible weight VS flow ratio;
