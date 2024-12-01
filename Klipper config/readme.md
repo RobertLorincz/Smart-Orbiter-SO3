@@ -6,3 +6,5 @@ Changes v2.2.5
 - Filament automatic unload after runnout can be disabled by variable disable_runout_unload.
 - corrected some minor bugs and spelling
 - messages sent to console shows SO3: prefix
+- correcte RGB led incorrect color status for some failure cases
+  
