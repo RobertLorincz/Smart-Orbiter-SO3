@@ -5,6 +5,6 @@ Changes v2.2.5
 - improved temperature restore behavior
 - Filament automatic unload after runnout can be disabled by variable disable_runout_unload.
 - corrected some minor bugs and spelling
-- messages sent to console shows SO3: prefix
+- messages sent to console show SO3: prefix
 - corrected RGB led incorrect color status for some failure cases
   
